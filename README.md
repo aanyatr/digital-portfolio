@@ -1,4 +1,4 @@
-# Aanya's Digital Portfolio
+# My Digital Portfolio
 
 Welcome to my digital portfolio! This repository houses the source code for my personal portfolio website, showcasing my projects, skills, and experience. The website is built using HTML, CSS, and JavaScript, with a modern and responsive design.
 
